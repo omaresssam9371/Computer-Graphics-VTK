@@ -1,14 +1,6 @@
 
 # SBE306 Assignment 4 (VTK) 
 
-* data : Directory containing Head and Ankle datasets 
-Names:
-
-Omar Essam Mohamed
-
-Yousef Hassan
-
-Mohamed Abd Elgellel
 
 ,
  
